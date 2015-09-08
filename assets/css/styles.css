@@ -1,0 +1,300 @@
+body {
+	margin:0 auto;
+}
+h1 {
+	font-family:"Montserrat", sans-serif;
+	font-size:72px;
+	text-align:center;
+	margin-bottom:0px;
+}
+h2 {
+	font-family:"Montserrat", sans-serif;
+	font-size:60px;
+	text-align: center;
+	margin-top:-10px;
+}
+header {
+	height:10px;
+	width:100%;
+	position:fixed;
+	top:0px;
+}
+section.pastel {
+	width:25%;
+	height:10px;
+	float:left;
+}
+section#pastel1 {
+	background-color:#FF8C03;
+}
+section#pastel2 {
+	background-color:#FFA6AF;
+}
+section#pastel3 {
+	background-color:#FAE898;
+}
+section#pastel4 {
+	background-color:#A0D1F2;
+}
+section#pastelfresh {
+	background-color:#FF8C03;
+	width:100%;
+	height:10px; 
+	position:fixed;
+}
+section#pastelsoph {
+	background-color:#FFA6AF;
+	width:100%;
+	height:10px; 
+	position:fixed;
+}
+section#pasteljun {
+	background-color:#FAE898;
+	width:100%;
+	height:10px; 
+	position:fixed;
+}
+section#pastelsen {
+	background-color:#A0D1F2;
+	width:100%;
+	height:10px; 
+	position:fixed;
+}
+nav {
+	width:100%;
+	text-align:center;
+	padding-bottom:5%;
+}
+nav ul {
+	margin:0px;
+	padding:8px 0px;
+	height:auto;
+}
+nav ul li {
+	display:inline;
+	padding:20px;
+}
+nav a {
+	text-decoration:none;
+	padding:8px;
+	font-family:"Andale Mono", "Lucida Console", monospace;
+	font-weight:normal;
+	font-size:24px;
+	color:#000;
+}
+nav li:nth-child(1) a:hover {
+	color:#FF8C03;
+}
+nav li:nth-child(2) a:hover {
+	color:#ffa6af;
+}
+nav li:nth-child(3) a:hover {
+	color:#FAE898;
+}
+nav li:nth-child(4) a:hover {
+	color:#A0D1F2;
+}
+div#classes {
+	width:100%;
+	text-align:center;
+}
+div.subclass {
+	width:100%;
+	float:left;
+	text-align:center;
+}
+div.subclass h3 {
+	text-align:center;
+	font-family:"Andale Mono", "Lucida Console", monospace;
+	font-weight:normal;
+	color:#000;
+	font-size:32px;
+	display:inline-block;
+}
+div.sub1 a {
+	text-decoration:none;
+}
+div.sub2 a {
+	text-decoration:none;
+}
+section.block {
+	width:100%;
+	height:600px;
+	text-align:center;
+	display:inline-block;
+}
+div.sub1 {
+	float:left;
+	padding-left:25%;
+	width:25%;
+}
+div.sub2 {
+	float:right;
+	padding-right:25%;
+	width:25%;
+}
+section#fresh {
+	background-color:#FF8C03;
+}
+section#soph {
+	background-color:#FFA6AF;
+}
+section#jun {
+	background-color:#FAE898;
+}
+section#sen {
+	background-color:#A0D1F2;
+}
+div#frschool a:hover h3 {
+	color:#FF8C03;
+}
+div#soschool a:hover h3 {
+	color:#FFA6AF;
+}
+div#jrschool a:hover h3 {
+	color:#FAE898;
+}
+div#srschool a:hover h3 {
+	color:#A0D1F2;
+}
+
+/* SCHOOL */
+
+div.classcont h1 {
+	font-family:"Lucida Console", monospace, sans-serif;
+	font-weight:normal;
+	font-size:40px;
+	text-align:center;
+	color:#000;
+	margin:0;
+	padding:0;
+}
+div.classcont h2 {
+	font-family:"Lucida Console", monospace, sans-serif;
+	font-weight:normal;
+	font-size:30px;
+	text-align:center;
+	color:#000;
+	margin:0;
+	padding:0;
+}
+div.classcont h3 {
+	font-family:"Lucida Console", monospace, sans-serif;
+	font-weight:normal;
+	font-size:28px;
+	text-align:center;
+	color:#000;
+	margin:5px 0;
+	padding:0;
+	z-index:1;
+}
+div.classcont p {
+	font-family:"Montserrat", Helvetica, sans-serif;
+	font-weight:lighter;
+	font-size:18px;
+}
+div.classcont div.tenet1 p {
+	text-align:left;
+}
+div.classcont div.tenet2 p {
+	text-align:left;
+}
+div.classcont div.tenetHolder {
+	width:100%;
+	overflow:hidden;
+	text-align:center;
+	padding-bottom:100px;
+}
+div.classcont div.tenet1 {
+	width:35%;
+	float:left;
+	text-align:center;
+	padding-left:10%;
+	padding-right:5%;
+}
+div.classcont div.tenet2 {
+	width:35%;
+	float:right;
+	text-align:center;
+	padding-left:5%;
+	padding-right:10%;
+}
+/* FRESHMAN */
+.freshImg {
+	width:60%;
+	height:60%;
+	text-align:center;
+}
+/* SOPHOMORE */
+.sophImg {
+	width:60%;
+	height:60%;
+	text-align:center;
+}
+/* JUNIOR */
+.junImg {
+	width:60%;
+	height:60%;
+	text-align:center;
+}
+/* SENIOR */
+.senImg {
+	width:60%;
+	height:60%;
+	text-align:center;
+}
+h1#tba {
+	font-size:72px;
+	font-family:"Lucida Console", monospace, sans-serif;
+}
+/* OTHER */
+div#lowpoly {
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+div#lowpoly img {
+	width:25%;
+}
+/* ABOUT */
+div#about {
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+	height:30%;
+}
+div#about h3 {
+	font-size:48px;
+	font-family:"Lucida Console", monospace, sans-serif;
+}
+div#about h4 {
+	font-size:24px;
+	font-family:"Lucida Console", monospace, sans-serif;
+}
+div#about p {
+	font-family:"Lucida Console", sans-serif;
+	width:100%;
+	text-align:left;
+}
+div#about ul {
+	padding:0;
+}
+div#about ul li {
+	list-style-type:none;
+}
+div#about ul li a {
+	text-decoration: none;
+	color:#000;
+	font-family:"Lucida Console", monospace, sans-serif;
+	font-size:16px;
+}
+div#about ul li:nth-child(1) a:hover {
+	color:#FF8C03;
+}
+div#about ul li:nth-child(2) a:hover {
+	color:#FFA6AF;
+}
+div#about ul li:nth-child(3) a:hover {
+	color:#A0D1F2;
+}
