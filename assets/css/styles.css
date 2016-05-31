@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Jaden';
+  src: url('Jaden.ttf') format('truetype'); /* IE9 Compat Modes */
+}
+
+
+
 body {
 	margin:0 auto;
 }
@@ -77,7 +84,7 @@ nav ul li {
 nav a {
 	text-decoration:none;
 	padding:8px;
-	font-family:"Andale Mono", "Lucida Console", monospace;
+	font-family:"Jaden", "Lucida Console", monospace;
 	font-weight:normal;
 	font-size:24px;
 	color:#000;
@@ -169,7 +176,7 @@ div#srschool a:hover h3 {
 /* SCHOOL */
 
 div.classcont h1 {
-	font-family:"Lucida Console", monospace, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-weight:normal;
 	font-size:40px;
 	text-align:center;
@@ -178,7 +185,7 @@ div.classcont h1 {
 	padding:0;
 }
 div.classcont h2 {
-	font-family:"Lucida Console", monospace, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-weight:normal;
 	font-size:30px;
 	text-align:center;
@@ -187,7 +194,7 @@ div.classcont h2 {
 	padding:0;
 }
 div.classcont h3 {
-	font-family:"Lucida Console", monospace, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-weight:normal;
 	font-size:28px;
 	text-align:center;
@@ -197,7 +204,7 @@ div.classcont h3 {
 	z-index:1;
 }
 div.classcont p {
-	font-family:"Montserrat", Helvetica, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-weight:lighter;
 	font-size:18px;
 }
@@ -253,7 +260,7 @@ div.classcont div.tenet2 {
 }
 h1#tba {
 	font-size:72px;
-	font-family:"Lucida Console", monospace, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 }
 .slideImg {
 	width:20%;
@@ -279,14 +286,14 @@ div#about {
 }
 div#about h3 {
 	font-size:48px;
-	font-family:"Lucida Console", monospace, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 }
 div#about h4 {
 	font-size:24px;
-	font-family:"Lucida Console", monospace, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 }
 div#about p {
-	font-family:"Lucida Console", sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	width:100%;
 	text-align:left;
 }
@@ -299,7 +306,7 @@ div#about ul li {
 div#about ul li a {
 	text-decoration: none;
 	color:#000;
-	font-family:"Lucida Console", monospace, sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-size:16px;
 }
 div#about ul li:nth-child(1) a:hover {
