@@ -205,7 +205,6 @@ div.classcont h3 {
 }
 div.classcont p {
 	font-family:'Roboto Condensed', Helvetica, sans-serif;
-	font-weight:lighter;
 	font-size:18px;
 }
 div.classcont div.tenet1 p {
@@ -299,7 +298,7 @@ div#about h4 {
 }
 div#about p {
 	font-family:'Roboto Condensed', Helvetica, sans-serif;
-	font-weight:lighter;
+	font-size:18px;
 	width:100%;
 	text-align:left;
 }
@@ -313,8 +312,7 @@ div#about ul li a {
 	text-decoration: none;
 	color:#000;
 	font-family:'Roboto Condensed', Helvetica, sans-serif;
-	font-weight:lighter;
-	font-size:16px;
+	font-size:18px;
 }
 div#about ul li:nth-child(1) a:hover {
 	color:#FF8C03;
