@@ -255,6 +255,11 @@ h1#tba {
 	font-size:72px;
 	font-family:"Lucida Console", monospace, sans-serif;
 }
+.slideImg {
+	width:60%;
+	height:60%;
+	text-align:center;
+}
 /* OTHER */
 div#lowpoly {
 	width:60%;
