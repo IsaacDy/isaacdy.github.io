@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Jaden';
-  src: url('Jaden.ttf') format('truetype'); /* IE9 Compat Modes */
+  src: url('Jaden.ttf') format('truetype');
 }
 
 
@@ -233,6 +233,11 @@ div.classcont div.tenet2 {
 	text-align:center;
 	padding-left:5%;
 	padding-right:10%;
+}
+div.classcont div.tenet3 {
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
 }
 /* FRESHMAN */
 .freshImg {
