@@ -9,13 +9,13 @@ body {
 	margin:0 auto;
 }
 h1 {
-	font-family:"Montserrat", sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-size:72px;
 	text-align:center;
 	margin-bottom:0px;
 }
 h2 {
-	font-family:"Montserrat", sans-serif;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-size:60px;
 	text-align: center;
 	margin-top:-10px;
@@ -84,7 +84,7 @@ nav ul li {
 nav a {
 	text-decoration:none;
 	padding:8px;
-	font-family:"Jaden", "Lucida Console", monospace;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-weight:normal;
 	font-size:24px;
 	color:#000;
@@ -120,7 +120,7 @@ div.subclass {
 }
 div.subclass h3 {
 	text-align:center;
-	font-family:"Andale Mono", "Lucida Console", monospace;
+	font-family:"Jaden", Helvetica, sans-serif;
 	font-weight:normal;
 	color:#000;
 	font-size:32px;
@@ -204,7 +204,7 @@ div.classcont h3 {
 	z-index:1;
 }
 div.classcont p {
-	font-family:"Jaden", Helvetica, sans-serif;
+	font-family:'Roboto Condensed', Helvetica, sans-serif;
 	font-weight:lighter;
 	font-size:18px;
 }
@@ -298,7 +298,8 @@ div#about h4 {
 	font-family:"Jaden", Helvetica, sans-serif;
 }
 div#about p {
-	font-family:"Jaden", Helvetica, sans-serif;
+	font-family:'Roboto Condensed', Helvetica, sans-serif;
+	font-weight:lighter;
 	width:100%;
 	text-align:left;
 }
@@ -311,7 +312,8 @@ div#about ul li {
 div#about ul li a {
 	text-decoration: none;
 	color:#000;
-	font-family:"Jaden", Helvetica, sans-serif;
+	font-family:'Roboto Condensed', Helvetica, sans-serif;
+	font-weight:lighter;
 	font-size:16px;
 }
 div#about ul li:nth-child(1) a:hover {
