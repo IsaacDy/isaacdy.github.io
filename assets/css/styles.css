@@ -2,6 +2,10 @@
   font-family: 'Jaden';
   src: url('Jaden.ttf') format('truetype');
 }
+@font-face {
+	font-family: 'Luna';
+	src: url('Luna.ttf') format('truetype');
+}
 
 
 
@@ -9,13 +13,13 @@ body {
 	margin:0 auto;
 }
 h1 {
-	font-family:"Jaden", Helvetica, sans-serif;
+	font-family:"Luna", Helvetica, sans-serif;
 	font-size:72px;
 	text-align:center;
 	margin-bottom:0px;
 }
 h2 {
-	font-family:"Jaden", Helvetica, sans-serif;
+	font-family:"Luna", Helvetica, sans-serif;
 	font-size:60px;
 	text-align: center;
 	margin-top:-10px;
